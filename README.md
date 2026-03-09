@@ -101,7 +101,7 @@ fn main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.73%20million%20baris%20kode-blue?style=flat)
 
@@ -144,15 +144,15 @@ Minggu                   254 commits         ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Vue.js                   34 mins             ████████████████████░░░░░   78.34 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+HTML                     11 mins             ████████████████████████░   96.14 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editor: 
-Neovim                   43 mins             █████████████████████████   100.00 % 
+Neovim                   11 mins             █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -172,5 +172,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqtidakjagongoding/syafiqtidakjagongoding/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 02:33:35 UTC
+ Last Updated on 09/03/2026 02:34:47 UTC
 <!--END_SECTION:waka-->
