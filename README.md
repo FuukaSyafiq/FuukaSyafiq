@@ -66,7 +66,6 @@ fn main() {
             ],
             devops: vec![
                 "Docker".to_string(),
-                "Kubernetes".to_string(),
                 "Nginx".to_string(),
                 "Linux".to_string(),
                 "CI / CD".to_string(),
@@ -92,7 +91,7 @@ fn main() {
             "Blue team security".to_string(),
             "Data Scientist".to_string()
         ],
-        fun_fact: "I learn tech quicker".to_string(),
+        fun_fact: "Maybe im is a 1% people around my family".to_string(),
     };
 
 }
