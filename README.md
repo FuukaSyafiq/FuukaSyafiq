@@ -100,17 +100,18 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2026 - To: 08 April 2026
+From: 04 April 2026 - To: 10 April 2026
 
-Total Time: 3 hrs 20 mins
+Total Time: 2 hrs 50 mins
 
-PHP        1 hrs 20 mins         >>>>>>>>>>---------------   40.04 %
-YAML       0 hrs 48 mins         >>>>>>-------------------   24.08 %
-Bash       0 hrs 28 mins         >>>----------------------   13.92 %
-Unknown    0 hrs 18 mins         >>-----------------------   08.79 %
-Python     0 hrs 16 mins         >>-----------------------   07.75 %
-INI        0 hrs 8 mins          >------------------------   04.05 %
-Markdown   0 hrs 3 mins          -------------------------   01.37 %
+PHP        0 hrs 49 mins         >>>>>>>------------------   28.99 %
+YAML       0 hrs 37 mins         >>>>>>-------------------   22.01 %
+Bash       0 hrs 26 mins         >>>>---------------------   15.25 %
+Dart       0 hrs 23 mins         >>>----------------------   13.33 %
+Python     0 hrs 16 mins         >>-----------------------   09.11 %
+Unknown    0 hrs 8 mins          >------------------------   04.93 %
+INI        0 hrs 8 mins          >------------------------   04.77 %
+Markdown   0 hrs 3 mins          -------------------------   01.61 %
 SQL        0 hrs 0 mins          -------------------------   00.00 %
 ```
 
