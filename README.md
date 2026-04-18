@@ -100,16 +100,16 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 14 April 2026
+From: 13 April 2026 - To: 14 April 2026
 
-Total Time: 1 hrs 17 mins
+Total Time: 1 hrs 6 mins
 
-Dart       0 hrs 51 mins         >>>>>>>>>>>>>>>>---------   65.77 %
-TSX        0 hrs 21 mins         >>>>>>>------------------   27.23 %
-Makefile   0 hrs 3 mins          >------------------------   03.85 %
-Unknown    0 hrs 2 mins          >------------------------   02.01 %
-YAML       0 hrs 1 mins          -------------------------   01.12 %
-Markdown   0 hrs 0 mins          -------------------------   00.02 %
+Dart       0 hrs 39 mins         >>>>>>>>>>>>>>>----------   60.09 %
+TSX        0 hrs 21 mins         >>>>>>>>-----------------   32.05 %
+Makefile   0 hrs 3 mins          >------------------------   04.53 %
+Unknown    0 hrs 1 mins          -------------------------   01.98 %
+YAML       0 hrs 1 mins          -------------------------   01.32 %
+Markdown   0 hrs 0 mins          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
