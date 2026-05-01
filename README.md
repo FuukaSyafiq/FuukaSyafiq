@@ -100,19 +100,14 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 29 April 2026
+From: 24 April 2026 - To: 29 April 2026
 
-Total Time: 2 hrs 8 mins
+Total Time: 0 hrs 31 mins
 
-YAML         0 hrs 52 mins         >>>>>>>>>>---------------   40.55 %
-Typescript   0 hrs 50 mins         >>>>>>>>>>---------------   38.95 %
-Bash         0 hrs 12 mins         >>-----------------------   08.98 %
-Lua          0 hrs 6 mins          >------------------------   04.62 %
-Vue          0 hrs 5 mins          >------------------------   04.15 %
-Markdown     0 hrs 2 mins          -------------------------   01.68 %
-Unknown      0 hrs 1 mins          -------------------------   00.62 %
-Docker       0 hrs 1 mins          -------------------------   00.40 %
-JSX          0 hrs 0 mins          -------------------------   00.04 %
+YAML         0 hrs 17 mins         >>>>>>>>>>>>>------------   53.68 %
+Typescript   0 hrs 8 mins          >>>>>>-------------------   25.08 %
+Lua          0 hrs 6 mins          >>>>>--------------------   18.94 %
+Unknown      0 hrs 1 mins          >------------------------   02.29 %
 ```
 
 <!--END_SECTION:waka-->
