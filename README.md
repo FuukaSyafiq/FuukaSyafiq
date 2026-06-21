@@ -7,8 +7,6 @@ Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <h3 align="center"><em>I am Just Tech nerd
 </em></h3>
 
-<img align="left" style="margin-left: 50px" src="https://static.zerochan.net/Alina.Clover.1024.4345060.webp" width="315"/>
-
 <hr/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/FikkzOutfit)
