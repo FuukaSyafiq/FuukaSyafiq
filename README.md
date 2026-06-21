@@ -9,8 +9,6 @@ Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 
 <img align="left" style="margin-left: 50px" src="https://static.zerochan.net/Alina.Clover.1024.4345060.webp" width="315"/>
 
-<img align="center" style="margin-left: 50px" src="https://i.pinimg.com/736x/69/82/aa/6982aafd816ea48f48d0639c7797915c.jpg" width=250/>
-
 <hr/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/FikkzOutfit)
