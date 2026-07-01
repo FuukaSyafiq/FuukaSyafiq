@@ -96,13 +96,13 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2026 - To: 29 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Total Time: 3 hrs 20 mins
+Total Time: 7 hrs 13 mins
 
-Python       1 hr 24 mins          >>>>>>>>>>>--------------   42.38 %
-JavaScript   1 hr 17 mins          >>>>>>>>>>---------------   38.91 %
-Other        18 mins               >>-----------------------   09.48 %
+JavaScript   7 hrs 3 mins          >>>>>>>>>>>>>>>>>>>>>>>>-   97.73 %
+TypeScript   6 mins                -------------------------   01.44 %
+Python       3 mins                -------------------------   00.83 %
 ```
 
 <!--END_SECTION:waka-->
